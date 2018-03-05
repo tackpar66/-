@@ -42,7 +42,7 @@ canvas.moveTo(10, 10).write('Hello, world').flush();
 ```
 
 ## API
-
+tacpar66
 You can find API documentation [here](./API.md)
 
 ## Examples
